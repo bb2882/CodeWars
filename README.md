@@ -5,4 +5,5 @@
 
 ##### 8 kyu
 
-- 1 [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
+- 1 [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
+- 2 [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb)
