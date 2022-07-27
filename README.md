@@ -13,3 +13,4 @@
 ##### 7 kyu
 
 - 4 [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
+- 5 [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
